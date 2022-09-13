@@ -62,7 +62,7 @@
   <project path="prebuilts/tools-lineage" name="LineageOS/android_prebuilts_tools-lineage" clone-depth="1" />
   <project path="tools/extract-utils" name="LineageOS/android_tools_extract-utils" />
   <project path="vendor/crowdin" name="LineageOS/android_vendor_crowdin" />
-  <project path="vendor/portalrom" name="ReTRAI/android_vendor_portalrom" revision="PROM-1.O"/>
+  <project path="vendor/portalrom" name="ReTRAI/android_vendor_portalrom" revision="PROM-1.0"/>
 
   <!-- CodeLinaro additions -->
   <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" groups="qcom,qssi" />
