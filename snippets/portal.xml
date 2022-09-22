@@ -38,7 +38,7 @@
   <project path="hardware/lineage/livedisplay" name="LineageOS/android_hardware_lineage_livedisplay" />
   <project path="lineage-sdk" name="LineageOS/android_lineage-sdk" />
   <project path="packages/apps/Backgrounds" name="LineageOS/android_packages_apps_Backgrounds" />
-  <project path="packages/apps/DeskClock" name="LineageOS/android_packages_apps_DeskClock" groups="pdk-fs" />
+  <project path="packages/apps/DeskClock" name="ReTRAI/android_packages_apps_DeskClock" groups="pdk-fs" revision="PROM-1.0" />
   <!--project path="packages/apps/Eleven" name="LineageOS/android_packages_apps_Eleven" /-->
   <project path="packages/apps/Etar" name="LineageOS/android_packages_apps_Etar" />
   <project path="packages/apps/ExactCalculator" name="ReTRAI/android_packages_apps_ExactCalculator" revision="PROM-1.0" />
