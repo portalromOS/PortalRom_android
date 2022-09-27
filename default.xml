@@ -71,6 +71,8 @@
   <project path="device/generic/x86_64" name="device/generic/x86_64" groups="pdk" remote="aosp" />
   <project path="device/generic/vulkan-cereal" name="device/generic/vulkan-cereal" groups="pdk" remote="aosp" />
   <project path="device/google/atv" name="LineageOS/android_device_google_atv" groups="device,broadcom_pdk,generic_fs,pdk" />
+  <project path="device/google/taimen" name="ReTRAI/android_device_google_taimen" groups="device,broadcom_pdk,generic_fs,pdk" revision="PROM-1.0"/>
+  <project path="device/google/wahoo" name="ReTRAI/android_device_google_wahoo" groups="device,broadcom_pdk,generic_fs,pdk" revision="PROM-1.0"/>
   <project path="device/google/contexthub" name="device/google/contexthub" groups="device,pdk" remote="aosp" />
   <project path="device/google/cuttlefish" name="device/google/cuttlefish" groups="device,pdk" remote="aosp" />
   <project path="device/google/cuttlefish_prebuilts" name="device/google/cuttlefish_prebuilts" groups="device,pdk" clone-depth="1" remote="aosp" />
