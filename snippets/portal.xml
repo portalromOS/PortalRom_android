@@ -36,7 +36,8 @@
   <!--<project path="hardware/broadcom/nfc" name="LineageOS/android_hardware_broadcom_nfc" />-->
   <project path="hardware/lineage/interfaces" name="LineageOS/android_hardware_lineage_interfaces" />
   <project path="hardware/lineage/livedisplay" name="LineageOS/android_hardware_lineage_livedisplay" />
-  <project path="lineage-sdk" name="LineageOS/android_lineage-sdk" />
+  <!--project path="lineage-sdk" name="LineageOS/android_lineage-sdk" /-->
+  <project path="portal-sdk" name="ReTRAI/android_portalrom-sdk" revision="PROM-1.0"/>
   <project path="packages/apps/Backgrounds" name="LineageOS/android_packages_apps_Backgrounds" />
   <project path="packages/apps/DeskClock" name="ReTRAI/android_packages_apps_DeskClock" groups="pdk-fs" revision="PROM-1.0" />
   <!--project path="packages/apps/Eleven" name="LineageOS/android_packages_apps_Eleven" /-->
