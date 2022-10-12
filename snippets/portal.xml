@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- PortalRom additions -->
-  <project path="android" name="ReTRAI/PortalRom_android"  revision="PROM-1.0" />
+  <project path="android" name="portalromOS/PortalRom_android"  revision="PROM-1.0" />
   <project path="device/lineage/atv" name="LineageOS/android_device_lineage_atv" />
   <project path="device/lineage/car" name="LineageOS/android_device_lineage_car" />
   <project path="device/lineage/sepolicy" name="LineageOS/android_device_lineage_sepolicy" />
@@ -37,12 +37,12 @@
   <project path="hardware/lineage/interfaces" name="LineageOS/android_hardware_lineage_interfaces" />
   <project path="hardware/lineage/livedisplay" name="LineageOS/android_hardware_lineage_livedisplay" />
   <!--project path="lineage-sdk" name="LineageOS/android_lineage-sdk" /-->
-  <project path="portal-sdk" name="ReTRAI/android_portalrom-sdk" revision="PROM-1.0"/>
+  <project path="portal-sdk" name="portalromOS/android_portalrom-sdk" revision="PROM-1.0"/>
   <project path="packages/apps/Backgrounds" name="LineageOS/android_packages_apps_Backgrounds" />
-  <project path="packages/apps/DeskClock" name="ReTRAI/android_packages_apps_DeskClock" groups="pdk-fs" revision="PROM-1.0" />
+  <project path="packages/apps/DeskClock" name="portalromOS/android_packages_apps_DeskClock" groups="pdk-fs" revision="PROM-1.0" />
   <!--project path="packages/apps/Eleven" name="LineageOS/android_packages_apps_Eleven" /-->
-  <project path="packages/apps/Etar" name="ReTRAI/android_packages_apps_Etar" revision="PROM-1.0"/>
-  <project path="packages/apps/ExactCalculator" name="ReTRAI/android_packages_apps_ExactCalculator" revision="PROM-1.0" />
+  <project path="packages/apps/Etar" name="portalromOS/android_packages_apps_Etar" revision="PROM-1.0"/>
+  <project path="packages/apps/ExactCalculator" name="portalromOS/android_packages_apps_ExactCalculator" revision="PROM-1.0" />
   <!--<project path="packages/apps/FMRadio" name="LineageOS/android_packages_apps_FMRadio" />-->
   <project path="packages/apps/FlipFlap" name="LineageOS/android_packages_apps_FlipFlap" />
   <!--project path="packages/apps/Gallery2" name="LineageOS/android_packages_apps_Gallery2" groups="pdk-fs" /-->
@@ -54,7 +54,7 @@
   <project path="packages/apps/Seedvault" name="LineageOS/android_packages_apps_Seedvault" />
   <project path="packages/apps/SetupWizard" name="LineageOS/android_packages_apps_SetupWizard" />
   <project path="packages/apps/SimpleDeviceConfig" name="LineageOS/android_packages_apps_SimpleDeviceConfig" />
-  <project path="packages/apps/Trebuchet" name="ReTRAI/android_packages_apps_Trebuchet" revision="PROM-1.0"/>
+  <project path="packages/apps/Trebuchet" name="portalromOS/android_packages_apps_Trebuchet" revision="PROM-1.0"/>
   <project path="packages/apps/Updater" name="LineageOS/android_packages_apps_Updater" />
   <project path="packages/overlays/Lineage" name="LineageOS/android_packages_overlays_Lineage" />
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" />
@@ -62,8 +62,8 @@
   <project path="prebuilts/tools-lineage" name="LineageOS/android_prebuilts_tools-lineage" clone-depth="1" />
   <project path="tools/extract-utils" name="LineageOS/android_tools_extract-utils" />
   <project path="vendor/crowdin" name="LineageOS/android_vendor_crowdin" />
-  <project path="vendor/portalrom" name="ReTRAI/android_vendor_portalrom" revision="PROM-1.0"/>
-<project path="vendor/google" name="ReTRAI/proprietary_vendor_google" revision="PROM-1.0"/>
+  <project path="vendor/portalrom" name="portalromOS/android_vendor_portalrom" revision="PROM-1.0"/>
+<project path="vendor/google" name="portalromOS/proprietary_vendor_google" revision="PROM-1.0"/>
 
   <!-- CodeLinaro additions -->
   <project path="device/qcom/sepolicy" name="LineageOS/android_device_qcom_sepolicy" groups="qcom,qssi" />
