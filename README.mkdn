@@ -6,7 +6,7 @@ Getting started
 
 To initialize your local repository using the PortalRom trees, use a command like this:
 ```
-repo init -u https://github.com/ReTRAI/PortalRom_android.git -b PROM-1.0
+repo init -u https://github.com/portalromOS/PortalRom_android.git -b PROM-1.0
 ```
 Then to sync up:
 ```
