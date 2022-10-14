@@ -49,7 +49,7 @@
   <!--project path="packages/apps/Jelly" name="LineageOS/android_packages_apps_Jelly" /-->
   <project path="packages/apps/LineageCustomizer" name="LineageOS/android_packages_apps_LineageCustomizer" />
   <project path="packages/apps/PortalRomParts" name="portalromOS/android_packages_apps_PortalRomParts" revision="PROM-1.0" />
-  <project path="packages/apps/Profiles" name="portalromOS/android_packages_apps_Profiles/branches" revision="PROM-1.0"/>
+  <project path="packages/apps/Profiles" name="portalromOS/android_packages_apps_Profiles" revision="PROM-1.0"/>
   <!--project path="packages/apps/Recorder" name="LineageOS/android_packages_apps_Recorder" /-->
   <project path="packages/apps/Seedvault" name="LineageOS/android_packages_apps_Seedvault" />
   <project path="packages/apps/SetupWizard" name="LineageOS/android_packages_apps_SetupWizard" />
