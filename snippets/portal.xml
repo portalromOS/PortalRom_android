@@ -44,7 +44,7 @@
   <project path="packages/apps/Etar" name="portalromOS/android_packages_apps_Etar" revision="PROM-1.0"/>
   <project path="packages/apps/ExactCalculator" name="portalromOS/android_packages_apps_ExactCalculator" revision="PROM-1.0" />
   <!--<project path="packages/apps/FMRadio" name="LineageOS/android_packages_apps_FMRadio" />-->
-  <project path="packages/apps/FlipFlap" name="LineageOS/android_packages_apps_FlipFlap" />
+  <project path="packages/apps/FlipFlap" name="portalromOS/android_packages_apps_FlipFlap" revision="PROM-1.0"/>
   <!--project path="packages/apps/Gallery2" name="LineageOS/android_packages_apps_Gallery2" groups="pdk-fs" /-->
   <!--project path="packages/apps/Jelly" name="LineageOS/android_packages_apps_Jelly" /-->
   <project path="packages/apps/LineageCustomizer" name="LineageOS/android_packages_apps_LineageCustomizer" />
@@ -52,7 +52,7 @@
   <project path="packages/apps/Profiles" name="portalromOS/android_packages_apps_Profiles" revision="PROM-1.0"/>
   <!--project path="packages/apps/Recorder" name="LineageOS/android_packages_apps_Recorder" /-->
   <project path="packages/apps/Seedvault" name="LineageOS/android_packages_apps_Seedvault" />
-  <project path="packages/apps/SetupWizard" name="LineageOS/android_packages_apps_SetupWizard" />
+  <project path="packages/apps/SetupWizard" name="portalromOS/android_packages_apps_SetupWizard" revision="PROM-1.0"/>
   <project path="packages/apps/SimpleDeviceConfig" name="LineageOS/android_packages_apps_SimpleDeviceConfig" />
   <project path="packages/apps/Trebuchet" name="portalromOS/android_packages_apps_Trebuchet" revision="PROM-1.0"/>
   <project path="packages/apps/Updater" name="LineageOS/android_packages_apps_Updater" />
