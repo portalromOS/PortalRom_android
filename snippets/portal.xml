@@ -58,8 +58,8 @@
   <project path="packages/apps/Updater" name="LineageOS/android_packages_apps_Updater" />
   <project path="packages/overlays/Lineage" name="LineageOS/android_packages_overlays_Lineage" />
   <project path="packages/resources/devicesettings" name="portalromOS/android_packages_resources_devicesettings" revision="PROM-1.0"/>
-  <project path="prebuilts/extract-tools" name="LineageOS/android_prebuilts_extract-tools" clone-depth="1" />
-  <project path="prebuilts/tools-lineage" name="LineageOS/android_prebuilts_tools-lineage" clone-depth="1" />
+  <project path="prebuilts/extract-tools" name="portalromOS/android_prebuilts_extract-tools" clone-depth="1" revision="PROM-1.0"/>
+  <project path="prebuilts/tools-lineage" name="portalromOS/android_prebuilts_tools-portalrom" clone-depth="1" revision="PROM-1.0"/>
   <project path="tools/extract-utils" name="LineageOS/android_tools_extract-utils" />
   <project path="vendor/crowdin" name="LineageOS/android_vendor_crowdin" />
   <project path="vendor/portalrom" name="portalromOS/android_vendor_portalrom" revision="PROM-1.0"/>
