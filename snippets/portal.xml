@@ -62,6 +62,7 @@
   <project path="prebuilts/tools-portalrom" name="portalromOS/android_prebuilts_tools-portalrom" clone-depth="1" revision="PROM-1.0"/>
   <project path="tools/extract-utils" name="LineageOS/android_tools_extract-utils" />
   <project path="vendor/crowdin" name="LineageOS/android_vendor_crowdin" />
+  <project path="vendor/lineage" name="LineageOS/android_vendor_lineage"/>
   <project path="vendor/portalrom" name="portalromOS/android_vendor_portalrom" revision="PROM-1.0"/>
 <project path="vendor/google" name="portalromOS/proprietary_vendor_google" revision="PROM-1.0"/>
 
