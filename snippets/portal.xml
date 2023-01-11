@@ -37,7 +37,7 @@
   <project path="hardware/portalrom/interfaces" name="portalromOS/android_hardware_portalrom_interfaces" revision="PROM-1.0"/>
   <project path="hardware/portalrom/livedisplay" name="portalromOS/android_hardware_portalrom_livedisplay" revision="PROM-1.0"/>
   <project path="lineage-sdk" name="LineageOS/android_lineage-sdk" />
-  <!--project path="portal-sdk" name="portalromOS/android_portalrom-sdk" revision="PROM-1.0"/-->
+  <project path="portal-sdk" name="portalromOS/android_portalrom-sdk" revision="PROM-1.0">
   <project path="packages/apps/Backgrounds" name="LineageOS/android_packages_apps_Backgrounds" />
   <project path="packages/apps/DeskClock" name="portalromOS/android_packages_apps_DeskClock" groups="pdk-fs" revision="PROM-1.0" />
   <!--project path="packages/apps/Eleven" name="LineageOS/android_packages_apps_Eleven" /-->
