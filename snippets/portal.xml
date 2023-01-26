@@ -41,7 +41,7 @@
   <project path="hardware/portalrom/interfaces" name="portalromOS/android_hardware_portalrom_interfaces" revision="PROM-1.0"/>
   <project path="hardware/portalrom/livedisplay" name="portalromOS/android_hardware_portalrom_livedisplay" revision="PROM-1.0"/>
   
-  <!--project path="lineage-sdk" name="LineageOS/android_lineage-sdk" /-->
+  <!--project path="portalrom-sdk" name="portalromOS/android_portalrom-sdk" /-->
   <project path="portal-sdk" name="portalromOS/android_portalrom-sdk" revision="PROM-1.0" />
   
   <project path="packages/apps/Backgrounds" name="LineageOS/android_packages_apps_Backgrounds" />
